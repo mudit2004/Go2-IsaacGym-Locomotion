@@ -8,7 +8,7 @@ This repository contains the custom environment configurations, task registries,
 
 By migrating from CPU-bound simulators to a GPU-accelerated tensor pipeline, the policy achieved over **20,000 simulation steps per second**, reaching total gait convergence (999.83 mean episode length) in under two hours on an RTX 4050.
 
-### 🎥 [Watch the Final Trained Policy Video Here](INSERT_YOUR_GOOGLE_DRIVE_LINK_HERE)
+### 🎥 [Watch the Final Trained Policy Video Here](https://drive.google.com/drive/folders/163_A_J7j-dufZUcxcsN-FHw0DmXmrn8c?usp=sharing)
 
 ## Repository Structure
 * `src/envs/go2/go2_config.py`: The Markov Decision Process setup, including the 48-dim observation space, PD controller gains, and the dense semantic reward curriculum.
